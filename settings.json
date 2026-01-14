@@ -38,9 +38,6 @@
     "workbench.commandPalette.experimental.enableNaturalLanguageSearch": false,
     "editor.minimap.enabled": false,
     "terminal.integrated.enableMultiLinePasteWarning": "never",
-    "settingsSync.ignoredSettings": [
-        "-window.zoomLevel"
-    ],
     "window.zoomLevel": -1.5,
     "accessibility.signals.nextEditSuggestion": {
         "sound": "off",
