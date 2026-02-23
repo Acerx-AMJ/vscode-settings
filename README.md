@@ -1,5 +1,8 @@
 ## vscode-settings
 These are my personal VS Code settings and keybinds.
+```bash
+cd ~/.config/Code/User && curl -O https://raw.githubusercontent.com/Acerx-AMJ/vscode-settings/refs/heads/main/keybindings.json -O https://raw.githubusercontent.com/Acerx-AMJ/vscode-settings/refs/heads/main/settings.json
+```
 
 ### Used Extensions
 - clangd by LLVM
